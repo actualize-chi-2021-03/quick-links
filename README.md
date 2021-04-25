@@ -4,3 +4,5 @@
 - [Resources](https://github.com/actualize-chi-2021-03/resources)
 - [Class recordings](https://drive.google.com/drive/folders/1Q26hF286Yz2Occ8qOR6eOddr1_JALZNA)
 - [Job hacking](https://drive.google.com/drive/folders/1vIQugMDDnyWjAJSrdQeoXk-g9DOtKs_9)
+- [Lisa calendar signup](https://calendly.com/lisa-at-actualize)
+- [Graduation requirements](https://actualize-chi-2021-03.slack.com/archives/C01R0GL07U7/p1619376115007500)
